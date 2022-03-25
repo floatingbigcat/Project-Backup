@@ -1,0 +1,2 @@
+A Kronecker-factored approximate fisher matrix for convolution layers
+
